@@ -2,7 +2,9 @@
 
 **Midnight Marauder** — basically a **Marauder Mini**, but modded.
 
-This project was made by **Sleepymorph**, with thanks to **D1Goat** for auto-routing, component placement, and help with IR LEDs.
+Marauder MINI >>https://github.com/justcallmekoko/MarauderMini
+
+This project was made by **sleepymorph**, with thanks to **D1Goat** for auto-routing, component placement, and help with IR LEDs.
 
 Open-source schematics and the `.gerber` file are included so you can order and assemble it yourself.
 
