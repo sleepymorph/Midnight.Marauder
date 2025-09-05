@@ -1,43 +1,88 @@
-# Midnight.Marauder
-This is a Midnight Marauder - Basically Marauder Mini but modded.
+# 🌙 Midnight.Marauder
 
-This project made by: Sleepymorph, thanks for help D1Goat(Auto-Routing, Component Placement, Help with IR leds)
-Has open-source schematics, and the .gerber file itself so you can order it.
+**Midnight Marauder** — basically a **Marauder Mini**, but modded.
 
+This project was made by **Sleepymorph**, with thanks to **D1Goat** for auto-routing, component placement, and help with IR LEDs.
 
-⚠️This project is not complete yet! It was not tested yet, if you want to help the project out, then you can order it by yourself, test it, and help me troubleshoot problems if you find some.⚠️
+Open-source schematics and the `.gerber` file are included so you can order and assemble it yourself.
 
-Midnight Marauder is recreated Marauder MINI by JustCallMeKoko but modded. Has an IR built in, Custom battery(solder any battery you want, 1000 MaH+) GPS module(ATGM336H-5N31), Power Management(Right angled switch, USB-C, IP5306, pins for battery, and etc.) A Micro sd card. Has two BWSMA-KE-P001(Right angled antenna headers, one for 2.4GHZ another for GPS, you can search up "GPS Antenna SMA"), Two VSMY14940(Powerful smd IR leds)
+---
 
+## ⚠️ Note
 
+This project is **not complete** and hasn’t been fully tested yet.  
+If you want to help, you can order a PCB, assemble it, test it, and help troubleshoot any issues.
 
-## PCB Preview
+---
 
-### How it looks like👀
+## 🚀 Features
+
+- IR built-in: Two **VSMY14940** powerful SMD IR LEDs  
+- Custom battery: solder **any battery** you want (1000 mAh+)  
+- GPS module: **ATGM336H-5N31**  
+- Power management: right-angled switch, USB-C, **IP5306**, battery pins, etc.  
+- Micro SD card slot: supports up to **32 GB**  
+- Antenna headers: Two **BWSMA-KE-P001** right-angled (2.4 GHz & GPS)
+
+> Recreated from **Marauder Mini** by JustCallMeKoko, but modded for extra features.
+
+---
+
+## 🖼 PCB Preview
+
+### Dual-Side View
 ![Dual_Sides](Images/Dual_Sides.png)
 
+---
 
+## 💸 How to Get It
 
-## How can i get it?
+The cheapest method is **hand-soldering**:
 
-### The cheapest methon in my opinion, is to hand solder this. Buy the pcb off the JLCPCB, its like two dollars on it. For that you need a mini hotplate, You squeeze the Low Melting solder(Like a liquid), place the components - And turn the mini hotplate on. In my opinion - the hardest thing to solder is the screen, its hard to solder to be honest, i dont like soldering flexable cables.
+1. Order the PCB from **JLCPCB** (~$2).  
+2. Use a **mini hotplate** with **low-melting solder** (liquid type).  
+3. Tip: the **screen is the hardest part** due to flexible cables.
+
+### Example Hotplate Setup
 ![Hotplate](Images/Hotplate.jpg)
 
-## How do i assemble this?
+---
 
-### To assemble it, you need some antennas(2,4ghz and gps antenna), an SD card(up to 32 GB) and ipex to ipex wire, you connect one end to esp and other end to RF3, near to right antenna from back side, and flash it.
+## ⚙️ How to Assemble
 
-## "What about schematics? Isnt its like FULL open source?" We got you man.
+### Required Parts:
 
-### ![Schematic](Schematic/ASSEMBLY.png)
+- 2 antennas (2.4 GHz & GPS)  
+- Micro SD card (up to 32 GB)  
+- IPEX-to-IPEX wire
+
+### Assembly Steps:
+
+1. Connect one end of the IPEX wire to the ESP and the other to **RF3**, near the right antenna on the back side.  
+2. Insert SD card, connect antennas, and flash firmware.
+
+---
+
+## 📝 Schematics
+
+Fully open-source:  
+![Schematic](Schematic/ASSEMBLY.png)
+
+---
+
+## 💡 Summary
+
+**Midnight Marauder** — Marauder Mini, but modded and upgraded.
+
+⭐ If this project gets stars, I may open a **PCBWay build option**!
+
+---
+
+## 💬 Contact
+
+Need help? DM me on **Discord: sleepymorph**
 
 
-###
 
-Midnight Marauder, basically Marauder Mini, but modded.
-(If this gets some stars, ill open a pcbway i think)
-
-
-## If you need any help - DM me on discord: sleepymorph
 
 
