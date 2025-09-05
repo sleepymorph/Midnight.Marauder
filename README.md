@@ -23,7 +23,9 @@ Midnight Marauder is recreated Marauder MINI by JustCallMeKoko but modded. Has a
 ### The cheapest methon in my opinion, is to hand solder this. Buy the pcb off the JLCPCB, its like two dollars on it. For that you need a mini hotplate, You squeeze the Low Melting solder(Like a liquid), place the components - And turn the mini hotplate on. In my opinion - the hardest thing to solder is the screen, its hard to solder to be honest, i dont like soldering flexable cables.
 ![Hotplate](Images/Hotplate.jpg)
 
+## How do i assemble this?
 
+### To assemble it, you need some antennas(2,4ghz and gps antenna), an SD card(up to 32 GB) and ipex to ipex wire, you connect one end to esp and other end to RF3, near to right antenna from back side, and flash it.
 
 ## "What about schematics? Isnt its like FULL open source?" We got you man.
 
@@ -34,3 +36,8 @@ Midnight Marauder is recreated Marauder MINI by JustCallMeKoko but modded. Has a
 
 Midnight Marauder, basically Marauder Mini, but modded.
 (If this gets some stars, ill open a pcbway i think)
+
+
+## If you need any help - DM me on discord: sleepymorph
+
+
