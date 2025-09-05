@@ -31,7 +31,7 @@ If you want to help, you can order a PCB, assemble it, test it, and help trouble
 ## 🖼 PCB Preview
 
 ### Dual-Side View
-![Dual_Sides](Images/Dual_Sides.png)
+<img src="Images/Dual_Sides.png" alt="Dual_Sides" width="1000"/>
 
 ---
 
@@ -44,7 +44,7 @@ The cheapest method is **hand-soldering**:
 3. Tip: the **screen is the hardest part** due to flexible cables.
 
 ### Example Hotplate Setup
-![Hotplate](Images/Hotplate.jpg)
+<img src="Images/Hotplate.jpg" alt="Hotplate" width="400"/>
 
 ---
 
@@ -65,7 +65,7 @@ The cheapest method is **hand-soldering**:
 
 ## 📝 Schematics
 
-Fully open-source:  
+Schematics? Sure.  
 ![Schematic](Schematic/ASSEMBLY.png)
 
 ---
@@ -81,8 +81,3 @@ Fully open-source:
 ## 💬 Contact
 
 Need help? DM me on **Discord: sleepymorph**
-
-
-
-
-
