@@ -14,4 +14,23 @@ Midnight Marauder is recreated Marauder MINI by JustCallMeKoko but modded. Has a
 ## PCB Preview
 
 ### How it looks like👀
-![Assembly](Images/Dual_Sides.png)
+![Dual_Sides](Images/Dual_Sides.png)
+
+
+
+## How can i get it?
+
+### The cheapest methon in my opinion, is to hand solder this. Buy the pcb off the JLCPCB, its like two dollars on it. For that you need a mini hotplate, You squeeze the Low Melting solder(Like a liquid), place the components - And turn the mini hotplate on. In my opinion - the hardest thing to solder is the screen, its hard to solder to be honest, i dont like soldering flexable cables.
+![Hotplate](Images/Hotplate.jpg)
+
+
+
+## "What about schematics? Isnt its like FULL open source?" We got you man.
+
+### ![Schematic](Schematic/ASSEMBLY.png)
+
+
+###
+
+Midnight Marauder, basically Marauder Mini, but modded.
+(If this gets some stars, ill open a pcbway i think)
